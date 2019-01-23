@@ -6,7 +6,7 @@ This repository is an implementation of the LSTM cells descibed in **Lstm: A sea
 
 Paper link: https://arxiv.org/pdf/1503.04069
 
-This code id modification of this repo: https://github.com/emadRad/lstm-gru-pytorch
+This code is the modification of this repository: https://github.com/emadRad/lstm-gru-pytorch
 
 ## Summery
 It is tested on the MNIST dataset for classification. 
